@@ -120,4 +120,4 @@ ggplot(esoph_sub, aes(x = alcgp,
         labs(fill = "Cancer freq.",
              x = "Alcohol consumption",
              y = "Tobacco consumption")
-#add a line to show the change
+
